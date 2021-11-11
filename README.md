@@ -1,4 +1,6 @@
 # VulnerableAzure
+
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/af98df85-1c29-483f-a298-76acc44204e3.svg)](https://app.soluble.cloud/repos/details/github.com/dasalebr/vulnerableazure)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/aa8fa805-9f5b-4aea-be2b-74b24a8f967b.svg)](https://app.soluble.cloud/repos/details/github.com/dasalebr/vulnerableazure)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/04c935a3-7a8a-49e2-886a-40fbf5b5fcff.svg)](https://app.soluble.cloud/repos/details/github.com/dasalebr/vulnerableazure)  
 Terraform playbook of a vulnerable Azure deployment
 
 Written by Michael Braun
